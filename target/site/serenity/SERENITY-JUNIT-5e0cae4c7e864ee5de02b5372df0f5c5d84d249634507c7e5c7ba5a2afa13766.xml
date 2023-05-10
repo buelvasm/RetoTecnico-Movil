@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Ingresar app de exito registrarse" skipped="0" tests="1" time="79.8" timestamp="2023-05-10 12:09:35"><testcase name="Ingresar a la app de exito y registrarse"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+com.exito.www.task.RegistoExitoTask.performAs(RegistoExitoTask.java:26)&#13;
+com.exito.www.stepDefinitions.ExitoStepDefinition.diligencioElFormularioDeRegistro(ExitoStepDefinition.java:34)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>
